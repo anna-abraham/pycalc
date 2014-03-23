@@ -1,4 +1,4 @@
 pycalc
 ======
 
-Let's learn some python
+A quick project in Python
